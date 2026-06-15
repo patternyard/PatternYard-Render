@@ -37,8 +37,8 @@
     "jsdoc": "3.6.7",
     "json": "9.0.6",
     "playwright-chromium": "1.13.0",
-    "scratch-render-fonts": "github:wycats/penguinmod-render-fonts#wycats-main",
-    "scratch-storage": "github:wycats/PenguinMod-Storage#wycats-main",
+    "scratch-render-fonts": "github:patternyard/patternyard-render-fonts#wycats-main",
+    "scratch-storage": "github:patternyard/PatternYard-Storage#wycats-main",
     "scratch-vm": "0.2.0-prerelease.20201125065300",
     "tap": "11.1.5",
     "travis-after-all": "1.4.5",
@@ -48,7 +48,7 @@
     "webpack-dev-server": "3.11.2"
   },
   "peerDependencies": {
-    "scratch-render-fonts": "github:wycats/penguinmod-render-fonts#wycats-main"
+    "scratch-render-fonts": "github:patternyard/patternyard-render-fonts#wycats-main"
   },
   "dependencies": {
     "grapheme-breaker": "0.3.2",
@@ -57,7 +57,7 @@
     "linebreak": "0.3.0",
     "minilog": "3.1.0",
     "raw-loader": "^0.5.1",
-    "scratch-svg-renderer": "github:wycats/penguinmod-svg-renderer#wycats-main",
+    "scratch-svg-renderer": "github:patternyard/patternyard-svg-renderer#wycats-main",
     "twgl.js": "4.4.0"
   },
   "private": true
